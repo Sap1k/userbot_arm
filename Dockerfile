@@ -130,6 +130,7 @@ RUN apk add --no-cache --update \
       bash \
       redis \
       libpq \
+      cargo \
       curl \
       sudo \
       neofetch \
